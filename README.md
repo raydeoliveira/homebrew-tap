@@ -23,6 +23,9 @@ brew install ergctl
 
 # Or install the USB-C PDO auditor, telemetry reader & PD/PPS trigger CLI & MCP server
 brew install pdprobe
+
+# Or install the USB UVC HDMI capture, localhost viewer & CH9329 serial HID CLI + MCP server
+brew install uvcpipe
 ```
 
 ## Included Formulas
@@ -37,3 +40,4 @@ brew install pdprobe
 | `luxdmx` | Zero-driver macOS LAN lighting CLI & MCP server for Art-Net 4 and ANSI E1.31 sACN ([Pro $29](https://buy.polar.sh/polar_cl_Gk5jd6VHJSUwKgvf186L8EyTDH8s4OsNmQOvG491AaB) · [Glama](https://glama.ai/mcp/servers/raydeoliveira/luxdmx)) |
 | `ergctl` | Open Bluetooth SIG FTMS & Concept2 PM5 ergometer CLI, TUI, FIT exporter, bidirectional AI coach & MCP server ([Pro $29](https://buy.polar.sh/polar_cl_yZX7OxANm5KpsXGmC233dm9mMCtARhSPMuFjw0XfvhT) · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=raydeoliveira/ergctl)) |
 | `pdprobe` | C17 macOS & Linux USB-C PDO auditor, telemetry reader & PD/PPS trigger CLI + MCP server for Apple Silicon, KM003C & FNB58 ([Pro $29](https://buy.polar.sh/polar_cl_oS3ab3YwDFdjshc4Fd3dTqa6cGsnJKJyHUnlt2fWdQz) · [Glama](https://glama.ai/mcp/servers/raydeoliveira/pdprobe)) |
+| `uvcpipe` | C17 macOS & Linux USB UVC HDMI capture, localhost MJPEG viewer & CH9329 serial HID CLI + MCP server ([Pro $19](https://buy.polar.sh/polar_cl_ZYe4DgatGrujYxoXUQ80f2zwwuM71Jspoxdew1Iac1c) · [Glama](https://glama.ai/mcp/servers/raydeoliveira/uvcpipe)) |
