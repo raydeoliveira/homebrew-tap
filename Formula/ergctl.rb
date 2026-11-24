@@ -1,8 +1,8 @@
 class Ergctl < Formula
-  desc "Bluetooth FTMS & Concept2 PM5 ergometer CLI, AI coaching & MCP server"
+  desc "Free macOS FTMS & Concept2 PM5 CLI, TUI, FIT exporter, AI coach & MCP"
   homepage "https://github.com/raydeoliveira/ergctl"
-  url "https://github.com/raydeoliveira/ergctl/releases/download/v0.1.0/ergctl-0.1.0-macos-arm64.tar.gz"
-  sha256 "b2c010acbef6dff8518d060fd4c361e966cc4ffb3664a06794cf13cd9eb4c23d"
+  url "https://github.com/raydeoliveira/ergctl/releases/download/v0.2.0/ergctl-0.2.0-macos-arm64.tar.gz"
+  sha256 "9f13397044a1fbd97bf53598b00c165e66663a1c26e02f7097794e2dfd95af3f"
   license :cannot_represent
 
   depends_on arch: :arm64
@@ -14,7 +14,7 @@ class Ergctl < Formula
   end
 
   test do
-    assert_match "ergctl 0.1.0", shell_output("#{bin}/ergctl --version")
+    assert_match "ergctl 0.2.0", shell_output("#{bin}/ergctl --version")
     describe_json = shell_output("#{bin}/ergctl --describe")
     assert_match "\"schema_version\":1", describe_json
     probe_json = shell_output("#{bin}/ergctl probe --sim --json")
