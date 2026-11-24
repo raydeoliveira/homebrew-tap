@@ -1,7 +1,5 @@
 # raydeoliveira/homebrew-tap
 
-> **Product Hub & Comparison:** [raymonddeoliveira.com/software](https://www.raymonddeoliveira.com/software) · **Spatial 3D Wedge Complete Bundle ($49, save $57):** [Polar Bundle Checkout](https://buy.polar.sh/polar_cl_KTtCY3iQC4bzjqp93aC6LCog8UZqzZzuDgkAs3BvF74) · **All Pro Licenses:** [Polar Storefront](https://polar.sh/raymond-de-oliveira) · **Verified MCP Servers:** [Glama Directory](https://glama.ai/mcp/servers?query=raydeoliveira)
-
 Official Homebrew tap for Raymond de Oliveira's Spatial / 3D Display CLI & MCP tools.
 
 ## Install
