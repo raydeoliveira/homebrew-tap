@@ -17,6 +17,9 @@ brew install stereoweave
 
 # Or install the zero-driver Art-Net 4 / sACN LAN lighting CLI & MCP server
 brew install luxdmx
+
+# Or install the open FTMS & Concept2 PM5 fitness ergometer CLI, AI coach & MCP server
+brew install ergctl
 ```
 
 ## Included Formulas
@@ -29,3 +32,4 @@ brew install luxdmx
 | `glassweave` | Cross-OS eye-tracked glasses-free 3D display CLI + MCP server (DDC/CI & USB-HID lens switching, UVC eye tracking, lenticular shaders) |
 | `stereoweave` | All-in-one Apple Silicon macOS EDID 3D/RGB-4:4:4 unlock, Metal stereo weaver & MV-HEVC Spatial Video converter |
 | `luxdmx` | Zero-driver macOS LAN lighting CLI & MCP server for Art-Net 4 and ANSI E1.31 sACN ([Pro $29](https://buy.polar.sh/polar_cl_Gk5jd6VHJSUwKgvf186L8EyTDH8s4OsNmQOvG491AaB) · [Glama](https://glama.ai/mcp/servers/raydeoliveira/luxdmx)) |
+| `ergctl` | Open Bluetooth SIG FTMS & Concept2 PM5 ergometer CLI, TUI, FIT exporter, bidirectional AI coach & MCP server ([Pro $29](https://polar.sh/raymond-de-oliveira) · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=raydeoliveira/ergctl)) |
