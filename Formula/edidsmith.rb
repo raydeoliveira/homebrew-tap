@@ -1,5 +1,5 @@
 class Edidsmith < Formula
-  desc "Clean-room EDID 1.4 / CTA-861 / DisplayID 2.1 parser, CVT-RB2 link-budget solver & MCP server"
+  desc "Parse monitor EDID, CTA-861 and DisplayID and check HDMI bandwidth"
   homepage "https://github.com/raydeoliveira/edidsmith"
   version "0.1.0"
   license :cannot_represent

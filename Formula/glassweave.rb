@@ -1,5 +1,5 @@
 class Glassweave < Formula
-  desc "Cross-OS eye-tracked glasses-free 3D CLI, lenticular shader weaver & MCP server"
+  desc "Preview lenticular 3D displays and eye tracking via CLI or MCP"
   homepage "https://github.com/raydeoliveira/glassweave"
   version "0.1.0"
   license :cannot_represent

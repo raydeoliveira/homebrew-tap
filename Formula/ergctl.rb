@@ -1,5 +1,5 @@
 class Ergctl < Formula
-  desc "Free macOS FTMS & Concept2 PM5 CLI, TUI, FIT exporter, AI coach & MCP"
+  desc "Read rowing workouts on Concept2 PM5 and FTMS trainers via CLI or MCP"
   homepage "https://github.com/raydeoliveira/ergctl"
   url "https://github.com/raydeoliveira/ergctl/releases/download/v0.2.0/ergctl-0.2.0-macos-arm64.tar.gz"
   sha256 "9f13397044a1fbd97bf53598b00c165e66663a1c26e02f7097794e2dfd95af3f"

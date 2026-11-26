@@ -1,5 +1,5 @@
 class Depthpipe < Formula
-  desc "Live 2D-to-3D stereo depth pipeline, Metal DIBR synthesizer, and MV-HEVC converter"
+  desc "Render 2D to stereo 3D and convert MV-HEVC spatial video on Metal"
   homepage "https://github.com/raydeoliveira/depthpipe"
   version "0.1.0"
   license :cannot_represent

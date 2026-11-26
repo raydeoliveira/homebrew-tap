@@ -1,5 +1,5 @@
 class Uvcpipe < Formula
-  desc "UVC HDMI capture, live KVM viewer, CH9329 HID CLI and MCP server for BIOS/OS control"
+  desc "View a UVC HDMI capture card locally and inspect CH9329 KVM devices"
   homepage "https://github.com/raydeoliveira/uvcpipe"
   version "0.2.0"
   license :cannot_represent

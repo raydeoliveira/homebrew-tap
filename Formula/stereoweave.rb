@@ -1,5 +1,5 @@
 class Stereoweave < Formula
-  desc "Spatial 3D display EDID unlock, Metal stereo/lenticular weaver, MV-HEVC converter & MCP server"
+  desc "Convert MV-HEVC spatial video to side-by-side 3D and inspect EDID"
   homepage "https://github.com/raydeoliveira/stereoweave"
   version "0.1.0"
   license :cannot_represent

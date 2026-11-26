@@ -1,5 +1,5 @@
 class Xrctl < Formula
-  desc "Control AR glasses display modes and read motion sensors via CLI or MCP"
+  desc "Inspect XREAL and Rokid AR glasses, display modes and IMU sensors"
   homepage "https://github.com/raydeoliveira/xrctl"
   url "https://github.com/raydeoliveira/xrctl/releases/download/v0.1.0/xrctl-0.1.0-macos-arm64.tar.gz"
   version "0.1.0"
